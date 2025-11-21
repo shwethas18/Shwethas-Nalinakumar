@@ -1,3 +1,3 @@
 # Shwethas-Nalinakumar
-programming langauge: java
-IDE:intellij
+Programming Language: Java
+IDE: IntelliJ IDEA
